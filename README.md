@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Corneille  
 
-🎓 Computer Science graduate | 💻 Full-Stack Developer | 🌍 From Benin | 📍 Based in French Guiana (University of Guyane, Cayenne)  
+🎓 Computer Science graduate | 💻 Full-Stack Developer | 🌍 From Benin | 📍 Based in French Guiana
 
 I’m passionate about **web & mobile development, AI, and cybersecurity**.  
 Currently building projects with **Laravel, Vue.js/Nuxt, Flutter, Livewire** and exploring **real-time apps, payment platforms, and APIs**.  
