@@ -1,47 +1,67 @@
-## 👋 Hi there, I'm Corneille
+# 👋 Hi, I'm Corneille  
 
-I'm a passionate Full-Stack Developer with over 3 years of experience in building and deploying mobile and web applications. Currently working remotely from Porto-Novo, I specialize in creating seamless user experiences and efficient backend solutions.
+🎓 Computer Science graduate | 💻 Full-Stack Developer | 🌍 From Benin | 📍 Based in French Guiana (University of Guyane, Cayenne)  
 
-![Corneille's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corneille9\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs\&theme=radical)
-
----
-
-## 🛠️ Technologies & Tools
-
-* **Frontend:** React, Vue.js, Tailwind CSS
-* **Backend:** Node.js, Express, Django
-* **Mobile:** React Native
-* **Databases:** MongoDB, PostgreSQL
-* **Version Control:** Git, GitHub
-* **DevOps:** Docker, CI/CD pipelines
+I’m passionate about **web & mobile development, AI, and cybersecurity**.  
+Currently building projects with **Laravel, Vue.js/Nuxt, Flutter, Livewire** and exploring **real-time apps, payment platforms, and APIs**.  
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Tech Stack  
 
-* **Cloud Platforms:** AWS, Azure
-* **Containerization:** Kubernetes
-* **Machine Learning:** TensorFlow, scikit-learn
+**Languages**  
+`PHP` `JavaScript` `TypeScript` `Python` `Dart` `C` `Python` `Java` 
 
----
+**Frameworks & Tools**  
+`Laravel` `Livewire` `Vue.js` `Nuxt.js` `Inertia.js` `Flutter` `Node.js` `NestJS` `Angular` `Next.js` `Nestjs`  
 
-## 📈 GitHub Stats
+**Databases**  
+`MySQL` `PostgreSQL` `MongoDB` `SQLite`  
 
-![Corneille's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corneille9\&layout=compact\&theme=radical)
-
----
-
-## 🏆 Achievements
-
-* 🎯 Developer Program Member
-* 🏆 Achieved 'Quickdraw' and 'YOLO' badges
+**DevOps & Others**  
+`Docker` `GitHub Actions` `Linux` `Nginx` `CI/CD`
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats  
 
-* [LinkedIn](https://www.linkedin.com/in/corneille-bankole-478992226)
-* [Portfolio](https://corneille.dev)
+![Corneille's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corneille9&show_icons=true&theme=radical&count_private=true)  
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corneille9&layout=compact&theme=radical)  
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Corneille9&theme=radical&hide_border=false)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Corneille9&theme=radical&no-frame=false&no-bg=true&margin-w=15)  
+
+---
+
+## 📈 Activity Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Corneille9&theme=radical)  
+
+---
+
+## 🏗 Featured Projects  
+
+🔹 [**E-Wallet & Payment Platform**](#) – A multi-currency payment system (XOF, EUR, USD) with mobile money & bank integration.  
+🔹 [**Digital Business Cards (Flutter)**](#) – Share & exchange cards via QR/NFC/Bluetooth.  
+🔹 [**Pregnancy & Baby Tracking App**](#) – A health companion app with medical tools, articles, and anonymous auth. 
+
+---
+
+## 🌱 Currently Learning  
+
+- **Cloud & DevOps** → AWS, Kubernetes, Terraform  
+- **Cybersecurity** → Web & API security, pentesting  
+- **AI/ML** → Natural Language Processing  
+
+---
+
+## 📬 Connect with me  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/corneille-bankole-478992226)  
+💼 [Portfolio](https://corneille.dev) *(soon)*
+
+---
+
+⭐️ From [Corneille9](https://github.com/Corneille9)  
